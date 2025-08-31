@@ -4,10 +4,12 @@
 
 Использовал модель NLLB-200 с адаптацией токенизатора от венгерского языка (наиболее близкого к ханты-мансийскому).
 ## Структура решения  
-- [Токенизатор языка](GITHUB_Tokenization_NLLB_ru_mns.ipynb)
-- [Модуль предобработки текста](NLLB_Preproc_text.ipynb)
-- [Обучение модели](NLLB_Trained.ipynb)
-- [Инференс модели](NLLB_Trained.ipynb)
+- [Токенизатор языка](GITHUB_Tokenization_NLLB_ru_mns.ipynb)  
+- [Модуль предобработки текста](NLLB_Preproc_text.ipynb)  
+- [Обучение модели](NLLB_Trained.ipynb)  
+- [Инференс модели](NLLB_Trained.ipynb)  
+
+[Ссылка на модель](https://huggingface.co/Anzovi/nllb-rus-mansi-V2)
 
 ## Примеры работы модели  
 
